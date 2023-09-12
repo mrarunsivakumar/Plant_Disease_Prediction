@@ -1,1 +1,1 @@
-# Plant_Disease_Prediction
+# Plant_Disease_Prediction using cnn
